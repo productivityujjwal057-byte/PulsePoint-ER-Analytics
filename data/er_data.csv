@@ -1,0 +1,6 @@
+patient_id,arrival_time,wait_time,severity,ambulance_time,department
+1,09:00,25,High,10,General ER
+2,10:00,15,Critical,7,Trauma
+3,11:30,40,Moderate,15,Pediatrics
+4,01:00,18,High,9,Cardiac
+5,03:00,35,Critical,14,General ER
