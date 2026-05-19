@@ -99,114 +99,113 @@ patient_id,arrival_time,wait_time,severity,ambulance_time,department
 98,12:20,21,High,9,General ER
 99,01:05,27,Moderate,10,Trauma
 100,02:45,36,Critical,17,Pediatrics
-patient_id,arrival_time,wait_time,severity,ambulance_time,department
-1,09:00,25,High,10,General ER
-2,10:00,15,Critical,7,Trauma
-3,11:30,40,Moderate,15,Pediatrics
-4,01:00,18,High,9,Cardiac
-5,03:00,35,Critical,14,Neurology
-6,04:15,20,Moderate,8,Orthopedic
-7,05:00,28,High,11,Oncology
-8,06:30,32,Critical,16,Dermatology
-9,07:00,22,Moderate,9,Urology
-10,08:15,45,Critical,18,Gynecology
-11,09:20,17,High,7,ENT
-12,10:10,26,Moderate,10,Radiology
-13,11:45,38,Critical,15,Pulmonology
-14,12:30,19,High,8,General Surgery
-15,01:40,24,Moderate,9,Nephrology
-16,02:15,31,Critical,17,Psychiatry
-17,03:25,16,High,7,ICU
-18,04:35,29,Moderate,11,Emergency Medicine
-19,05:10,41,Critical,19,Cardiology
-20,06:00,23,High,10,Pathology
-21,07:20,27,Moderate,12,Trauma
-22,08:45,36,Critical,16,Pediatrics
-23,09:30,18,High,8,Orthopedic
-24,10:15,30,Moderate,11,Neurology
-25,11:00,43,Critical,20,Cardiac
-26,12:20,21,High,9,General ER
-27,01:10,25,Moderate,10,Oncology
-28,02:40,34,Critical,15,Dermatology
-29,03:50,19,High,7,Urology
-30,04:25,28,Moderate,12,Gynecology
-31,05:15,39,Critical,18,ENT
-32,06:45,22,High,9,Radiology
-33,07:35,26,Moderate,10,Pulmonology
-34,08:20,37,Critical,17,General Surgery
-35,09:05,20,High,8,Nephrology
-36,10:50,29,Moderate,11,Psychiatry
-37,11:40,42,Critical,19,ICU
-38,12:15,24,High,10,Emergency Medicine
-39,01:25,27,Moderate,12,Cardiology
-40,02:30,35,Critical,16,Pathology
-41,03:45,18,High,7,Trauma
-42,04:50,31,Moderate,11,Pediatrics
-43,05:35,44,Critical,20,Orthopedic
-44,06:10,23,High,9,Neurology
-45,07:15,28,Moderate,10,Cardiac
-46,08:25,33,Critical,15,General ER
-47,09:40,17,High,8,Oncology
-48,10:30,30,Moderate,12,Dermatology
-49,11:20,40,Critical,18,Urology
-50,12:45,21,High,9,Gynecology
-51,01:15,26,Moderate,10,ENT
-52,02:00,38,Critical,17,Radiology
-53,03:10,19,High,8,Pulmonology
-54,04:20,27,Moderate,11,General Surgery
-55,05:30,41,Critical,19,Nephrology
-56,06:40,22,High,9,Psychiatry
-57,07:50,29,Moderate,12,ICU
-58,08:30,36,Critical,16,Emergency Medicine
-59,09:15,18,High,7,Cardiology
-60,10:25,31,Moderate,11,Pathology
-61,11:10,43,Critical,20,Trauma
-62,12:05,24,High,10,Pediatrics
-63,01:45,28,Moderate,12,Orthopedic
-64,02:20,37,Critical,17,Neurology
-65,03:35,20,High,8,Cardiac
-66,04:45,30,Moderate,11,General ER
-67,05:25,42,Critical,19,Oncology
-68,06:15,23,High,9,Dermatology
-69,07:40,27,Moderate,10,Urology
-70,08:10,35,Critical,15,Gynecology
-71,09:05,19,High,7,ENT
-72,10:20,32,Moderate,12,Radiology
-73,11:35,44,Critical,20,Pulmonology
-74,12:50,21,High,9,General Surgery
-75,01:30,26,Moderate,10,Nephrology
-76,02:15,39,Critical,18,Psychiatry
-77,03:25,18,High,8,ICU
-78,04:35,29,Moderate,11,Emergency Medicine
-79,05:45,40,Critical,19,Cardiology
-80,06:55,22,High,9,Pathology
-81,07:10,27,Moderate,12,Trauma
-82,08:40,34,Critical,16,Pediatrics
-83,09:20,20,High,8,Orthopedic
-84,10:05,31,Moderate,11,Neurology
-85,11:15,45,Critical,20,Cardiac
-86,12:30,24,High,10,General ER
-87,01:50,28,Moderate,12,Oncology
-88,02:25,38,Critical,17,Dermatology
-89,03:40,17,High,7,Urology
-90,04:55,30,Moderate,11,Gynecology
-91,05:35,42,Critical,19,ENT
-92,06:25,23,High,9,Radiology
-93,07:45,26,Moderate,10,Pulmonology
-94,08:35,37,Critical,16,General Surgery
-95,09:10,18,High,8,Nephrology
-96,10:40,32,Moderate,12,Psychiatry
-97,11:50,44,Critical,20,ICU
-98,12:20,21,High,9,Emergency Medicine
-99,01:05,27,Moderate,10,Cardiology
-100,02:45,36,Critical,17,Pathology
-101,03:15,22,High,8,Trauma
-102,04:05,29,Moderate,11,Pediatrics
-103,05:25,41,Critical,19,Orthopedic
-104,06:15,24,High,9,Neurology
-105,07:30,33,Moderate,12,Cardiac
-106,08:20,39,Critical,18,General ER
-107,09:10,18,High,8,Oncology
-108,10:45,31,Moderate,11,Dermatology
-109,11:35,43,Critical,20,Urology
-110,12:15,25,High,10,Gynecology
+101,09:00,25,High,10,General ER
+102,10:00,15,Critical,7,Trauma
+103,11:30,40,Moderate,15,Pediatrics
+104,01:00,18,High,9,Cardiac
+105,03:00,35,Critical,14,Neurology
+106,04:15,20,Moderate,8,Orthopedic
+107,05:00,28,High,11,Oncology
+108,06:30,32,Critical,16,Dermatology
+109,07:00,22,Moderate,9,Urology
+110,08:15,45,Critical,18,Gynecology
+111,09:20,17,High,7,ENT
+112,10:10,26,Moderate,10,Radiology
+113,11:45,38,Critical,15,Pulmonology
+114,12:30,19,High,8,General Surgery
+115,01:40,24,Moderate,9,Nephrology
+116,02:15,31,Critical,17,Psychiatry
+117,03:25,16,High,7,ICU
+118,04:35,29,Moderate,11,Emergency Medicine
+119,05:10,41,Critical,19,Cardiology
+120,06:00,23,High,10,Pathology
+121,07:20,27,Moderate,12,Trauma
+122,08:45,36,Critical,16,Pediatrics
+123,09:30,18,High,8,Orthopedic
+124,10:15,30,Moderate,11,Neurology
+125,11:00,43,Critical,20,Cardiac
+126,12:20,21,High,9,General ER
+127,01:10,25,Moderate,10,Oncology
+128,02:40,34,Critical,15,Dermatology
+129,03:50,19,High,7,Urology
+130,04:25,28,Moderate,12,Gynecology
+131,05:15,39,Critical,18,ENT
+132,06:45,22,High,9,Radiology
+133,07:35,26,Moderate,10,Pulmonology
+134,08:20,37,Critical,17,General Surgery
+135,09:05,20,High,8,Nephrology
+136,10:50,29,Moderate,11,Psychiatry
+137,11:40,42,Critical,19,ICU
+138,12:15,24,High,10,Emergency Medicine
+139,01:25,27,Moderate,12,Cardiology
+140,02:30,35,Critical,16,Pathology
+141,03:45,18,High,7,Trauma
+142,04:50,31,Moderate,11,Pediatrics
+143,05:35,44,Critical,20,Orthopedic
+144,06:10,23,High,9,Neurology
+145,07:15,28,Moderate,10,Cardiac
+146,08:25,33,Critical,15,General ER
+147,09:40,17,High,8,Oncology
+148,10:30,30,Moderate,12,Dermatology
+149,11:20,40,Critical,18,Urology
+150,12:45,21,High,9,Gynecology
+151,01:15,26,Moderate,10,ENT
+152,02:00,38,Critical,17,Radiology
+153,03:10,19,High,8,Pulmonology
+154,04:20,27,Moderate,11,General Surgery
+155,05:30,41,Critical,19,Nephrology
+156,06:40,22,High,9,Psychiatry
+157,07:50,29,Moderate,12,ICU
+158,08:30,36,Critical,16,Emergency Medicine
+159,09:15,18,High,7,Cardiology
+160,10:25,31,Moderate,11,Pathology
+161,11:10,43,Critical,20,Trauma
+162,12:05,24,High,10,Pediatrics
+163,01:45,28,Moderate,12,Orthopedic
+164,02:20,37,Critical,17,Neurology
+165,03:35,20,High,8,Cardiac
+166,04:45,30,Moderate,11,General ER
+167,05:25,42,Critical,19,Oncology
+168,06:15,23,High,9,Dermatology
+169,07:40,27,Moderate,10,Urology
+170,08:10,35,Critical,15,Gynecology
+171,09:05,19,High,7,ENT
+172,10:20,32,Moderate,12,Radiology
+173,11:35,44,Critical,20,Pulmonology
+174,12:50,21,High,9,General Surgery
+175,01:30,26,Moderate,10,Nephrology
+176,02:15,39,Critical,18,Psychiatry
+177,03:25,18,High,8,ICU
+178,04:35,29,Moderate,11,Emergency Medicine
+179,05:45,40,Critical,19,Cardiology
+180,06:55,22,High,9,Pathology
+181,07:10,27,Moderate,12,Trauma
+182,08:40,34,Critical,16,Pediatrics
+183,09:20,20,High,8,Orthopedic
+184,10:05,31,Moderate,11,Neurology
+185,11:15,45,Critical,20,Cardiac
+186,12:30,24,High,10,General ER
+187,01:50,28,Moderate,12,Oncology
+188,02:25,38,Critical,17,Dermatology
+189,03:40,17,High,7,Urology
+190,04:55,30,Moderate,11,Gynecology
+191,05:35,42,Critical,19,ENT
+192,06:25,23,High,9,Radiology
+193,07:45,26,Moderate,10,Pulmonology
+194,08:35,37,Critical,16,General Surgery
+195,09:10,18,High,8,Nephrology
+196,10:40,32,Moderate,12,Psychiatry
+197,11:50,44,Critical,20,ICU
+198,12:20,21,High,9,Emergency Medicine
+199,01:05,27,Moderate,10,Cardiology
+200,02:45,36,Critical,17,Pathology
+201,03:15,22,High,8,Trauma
+202,04:05,29,Moderate,11,Pediatrics
+203,05:25,41,Critical,19,Orthopedic
+204,06:15,24,High,9,Neurology
+205,07:30,33,Moderate,12,Cardiac
+206,08:20,39,Critical,18,General ER
+207,09:10,18,High,8,Oncology
+208,10:45,31,Moderate,11,Dermatology
+209,11:35,43,Critical,20,Urology
+210,12:15,25,High,10,Gynecology
